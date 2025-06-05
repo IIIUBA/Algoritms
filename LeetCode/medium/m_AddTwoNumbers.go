@@ -12,11 +12,12 @@ func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 }
 
 func reverseNum(l1 *ListNode) {
-	
+
 	// либо перевернуть цепочку
 	// либо перебрать всю цепочку
 	// пересобрать можн выписав все числа от туда а потом создать новые поля с такими же числами только в другом порядке
 
+	
 	continius := true
 	str := ""
 	for continius {
